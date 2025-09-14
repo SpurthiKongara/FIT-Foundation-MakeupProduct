@@ -24,34 +24,6 @@ A beautiful, modern, and interactive product landing page for **FIT Foundation**
 ### 🔄 Cyclic Slider
 - Automatically showcases product features with smooth transitions
 
----
-
-## 📂 Folder Structure
-```bash
-FIT-Foundation-MakeupProduct/
-├── index.html # Main HTML page
-├── style.css # Styling for the website
-├── script.js # JavaScript for animations and slider
-├── images/ # Product images, background, and video
-│ ├── foundation1.jpg
-│ ├── foundation2.webp
-│ ├── foundation3.jpg
-│ ├── pro3.jpg
-│ ├── beau.jpg
-│ ├── img1.png
-│ ├── img2.png
-│ ├── img3.png
-│ ├── video.mp4
-│ └── background.png
-└── screenshots/ # Screenshots of the website UI
-├── Screenshot1.png
-└── Screenshot2.png
-
-
-
-
-
-
 ## 🚀 Live Demo
 
 Experience the live website:  
@@ -83,4 +55,28 @@ Experience the live website:
 ```bash
 git clone https://github.com/SpurthiKongara/FIT-Foundation-MakeupProduct.git
 
-##Kongara.Spurthi ---Web Developer(Front-End)
+
+---
+
+## 📂 Folder Structure
+```bash
+FIT-Foundation-MakeupProduct/
+├── index.html # Main HTML page
+├── style.css # Styling for the website
+├── script.js # JavaScript for animations and slider
+├── images/ # Product images, background, and video
+│ ├── foundation1.jpg
+│ ├── foundation2.webp
+│ ├── foundation3.jpg
+│ ├── pro3.jpg
+│ ├── beau.jpg
+│ ├── img1.png
+│ ├── img2.png
+│ ├── img3.png
+│ ├── video.mp4
+│ └── background.png
+└── screenshots/ # Screenshots of the website UI
+├── Screenshot1.png
+└── Screenshot2.png
+
+
